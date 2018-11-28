@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 28 Nov 2018 16:03:10 at https://mcoach.in/prodiva-landing-page/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://mcoach.in/prodiva-landing-page/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://mcoach.in/prodiva-landing-page/ -O1 "G:\Company\Website\Prodiva\HTML\Prodiva HTML" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://mcoach.in/prodiva-landing-page/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:03:57	Error: 	"Bad Request" (400) at link https://cdn.polyfill.io/v2/polyfill.js?features=IntersectionObserver,IntersectionObserverEntry (from https://mcoach.in/prodiva-landing-page/)
+16:04:01	Error: 	"Not Found" (404) at link https://mcoach.in/wp-content/plugins/templatesnext-toolkit/css/grabbing.png (from https://mcoach.in/wp-content/cache/wmac/css/wmac_single_0371b5a2d50e985b09b7d337edc0dc9f.css)
+16:04:01	Error: 	"Not Found" (404) at link https://mcoach.in/prodiva-landing-page/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://secure.gravatar.com/js/gprofiles.js?ver=2018Novaa)
+16:04:01	Error: 	"Not Found" (404) at link https://mcoach.in/prodiva-landing-page/g.gif (from https://stats.wp.com/e-201848.js)
+16:04:01	Error: 	"Not Found" (404) at link https://mcoach.in/prodiva-landing-page/c.gif (from https://stats.wp.com/e-201848.js)
+16:04:01	Error: 	"Not Found" (404) at link https://mcoach.in/prodiva-landing-page/t.gif (from https://stats.wp.com/e-201848.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 51 seconds : 90 links scanned, 82 files written (2173345 bytes overall) [1047870 bytes received at 20546 bytes/sec], 1765187 bytes transferred using HTTP compression in 54 files, ratio 22%, 3.0 requests per connection
+(6 errors, 0 warnings, 0 messages)

@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mcoach.in	TRUE	/	FALSE	1999999999	cf7msm_check	1
+mcoach.in	TRUE	/	FALSE	1999999999	PHPSESSID	05tnbhm4sd7laa0tntknln12a3
+
